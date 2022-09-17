@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: rgb(214, 22, 22);
+}
+
+body a{
+    text-decoration: none;
+    color: aliceblue;
+}
