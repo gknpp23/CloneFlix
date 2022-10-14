@@ -34,5 +34,8 @@
         height: 100px;
     }
     
+    footer {
+        justify-content: center;
+    }
  
 }

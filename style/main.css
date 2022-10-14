@@ -116,6 +116,17 @@ i {
     padding-top: 0px;
 }
 
+footer{
+    /* height: 7em; */
+    width: 100%;
+    padding: 3em;
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: larger;
+    background-color: #E50914;
+}
+
 
 
 
