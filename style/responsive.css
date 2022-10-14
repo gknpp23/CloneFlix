@@ -1,0 +1,38 @@
+@media screen and (max-width:700px) {
+    
+    .cp-mv{
+        width: 100%;
+    }
+    .movie{
+        width: 100%;
+        margin: 0px;
+    }
+    .container{
+        justify-content: center;
+        
+    }
+    .movie p{
+        margin: 15px;
+    }
+    #logo-mv img{
+        width: 20em;
+    }
+   
+
+    header .container nav{
+        display: none;
+    }
+    .btn{
+    
+        display: flex;
+        justify-content: center;
+        padding-left: 50px;
+    }
+    .button {
+        margin: 10px 10px 0px 0px;
+        width: 190px;
+        height: 100px;
+    }
+    
+ 
+}
