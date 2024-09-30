@@ -69,9 +69,12 @@ The **CloneFlix** project helps you practice the following web development skill
 
 ## 🌐 Demo
 
-Check out the **live demo** of the project here: [CloneFlix Demo](https://cloneflix-demo.netlify.app/)
+Check out the **live demo** of the project here: [CloneFlix](https://cloneflix-01.netlify.app/)
 
-![CloneFlix Preview](https://github.com/user-attachments/assets/cloneflix-preview.png)
+![CloneFlix Preview](https://github.com/gknpp23/CloneFlix/blob/main/img/Screenshot-desktop-01png)
+![CloneFlix Preview](https://github.com/gknpp23/CloneFlix/blob/main/img/Screenshot-desktop-02.png)
+![CloneFlix Preview](https://github.com/gknpp23/CloneFlix/blob/main/img/Screenshot-mobile-01.png)
+![CloneFlix Preview](https://github.com/gknpp23/CloneFlix/blob/main/img/Screenshot-Mobile-02.png)
 
 ---
 
